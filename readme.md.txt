@@ -1,4 +1,4 @@
-# 🏠 Airbnb Price Analysis
+🏠 Airbnb Price Analysis
 
 A data analysis project exploring Airbnb listing prices, room types, and neighbourhood trends using Python, Pandas, Matplotlib, and Seaborn.
 
